@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MacroStudio/MacroStudio.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MacroStudio.Tests/MacroStudio.Tests.csproj" />
+  </Folder>
+</Solution>
